@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n gb
+web: bin/hubot -a slack --alias gb
